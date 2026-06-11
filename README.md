@@ -1,4 +1,4 @@
-# Customer Behavior Analysis
+# Customer Behavior Analysis 
 
 Hi! This is one of my portfolio projects where I walked through a full customer behavior analysis workflow using Python, SQL, and Power BI.  
 The goal was simple: take raw shopping data, turn it into useful insights, and present it in a way that's easy to understand.
