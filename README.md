@@ -41,7 +41,7 @@ The goal was simple: take raw shopping data, turn it into useful insights, and p
    ```bash
    jupyter notebook
    ```
-5. Run `/home/runner/work/Customer_Behavior_analysis/Customer_Behavior_analysis/abhi231210003/Customer_Behavior_analysis/main.ipynb` step by step and review `/home/runner/work/Customer_Behavior_analysis/Customer_Behavior_analysis/abhi231210003/Customer_Behavior_analysis/customer_behavior_sql_queries.sql` for SQL insights.
+5. Run `main.ipynb` step by step and review `customer_behavior_sql_queries.sql` for SQL insights.
 
 ## 🔄 Project Workflow
 
@@ -64,9 +64,7 @@ The goal was simple: take raw shopping data, turn it into useful insights, and p
 
 > I will add my dashboard screenshot here.
 
-```md
 ![Power BI Dashboard](path/to/dashboard-screenshot.png)
-```
 
 ## 📈 Results / Key Insights
 
