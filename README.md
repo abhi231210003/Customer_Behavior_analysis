@@ -62,9 +62,7 @@ The goal was simple: take raw shopping data, turn it into useful insights, and p
 
 ## 📷 Power BI Dashboard Preview
 
-> I will add my dashboard screenshot here.
-
-Placeholder path for screenshot: `./dashboard.png` (create an `images/` folder in the project root when adding the file).
+![Dashboard Screenshot](dashboard.jpg)
 
 ## 📈 Results / Key Insights
 
