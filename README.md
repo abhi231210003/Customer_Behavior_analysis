@@ -64,7 +64,7 @@ The goal was simple: take raw shopping data, turn it into useful insights, and p
 
 > I will add my dashboard screenshot here.
 
-Placeholder path for screenshot: `./images/dashboard-screenshot.png` (create an `images/` folder in the project root when adding the file).
+Placeholder path for screenshot: `./dashboard.png` (create an `images/` folder in the project root when adding the file).
 
 ## 📈 Results / Key Insights
 
