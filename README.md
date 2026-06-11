@@ -64,7 +64,7 @@ The goal was simple: take raw shopping data, turn it into useful insights, and p
 
 > I will add my dashboard screenshot here.
 
-![Power BI Dashboard](path/to/dashboard-screenshot.png)
+Placeholder path for screenshot: `./images/dashboard-screenshot.png`
 
 ## 📈 Results / Key Insights
 
